@@ -40,6 +40,8 @@ Line Follower is a **robot implemented on Arduino** that follows a **marked path
 
 ![Circuit Diagram] (bot_circuit.png.jpeg)
 
+## Demo Video
+[Watch demo] (line_follower.mp4.mp4)
 ## Author
 
 Abhiramisatheesan2509
